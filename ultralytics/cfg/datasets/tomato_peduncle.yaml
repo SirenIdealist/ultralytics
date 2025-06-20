@@ -1,0 +1,12 @@
+path: peduncle_tomato_datasets
+
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: iamges/val  # test images (optional)
+
+nc: 1
+names:
+  0: tomato_peduncle
+
+kpt_shape: [4, 3]
+flip_idx: []

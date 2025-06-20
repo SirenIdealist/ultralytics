@@ -1,3 +1,9 @@
+# tomato_peduncle_datasets
+peduncle_tomato_datasets/
+
+# batch prediction
+batch_prediction/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
